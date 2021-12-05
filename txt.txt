@@ -1,1 +1,2 @@
 jdk-8u311-linux-aarch64.tar.gz
+https://www.oracle.com/java/technologies/downloads/#license-lightbox
