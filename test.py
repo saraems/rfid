@@ -25,6 +25,7 @@ ser = serial.Serial(
 while 1:
 
 	print(ser.name)
+        print(ser.readline())
         # y=ser.readline()
 	# y=ser.read(ser.inWaiting())
 	# time.sleep(0.01)
